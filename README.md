@@ -60,4 +60,4 @@ Running commands with npm `npm run [command]`
 
 **Declaration:**
 
-`This Web Application has been made with complete help from the internet just for educational purpose for my AWS Cloud Project as an intern at Ericsson, to learn and understand the various components and features of AWS.This project can be easily deployed to Vercel, by adding the Environment Secrets into the deployment section.`
+`This Web Application has been made with complete help from the internet just for educational purpose for my AWS Cloud Project as an intern at Ericsson, to learn, understand and implement the various components and features of AWS.This project can be easily deployed to Vercel, by adding the Environment Secrets into the deployment section.`
