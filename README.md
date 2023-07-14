@@ -1,6 +1,6 @@
 # Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
 
-Google and Github Auth are broken as of now, will be fixed soon
+**Google and Github Auth are broken as of now, will be fixed soon**
 
 ### Prerequisites
 
@@ -59,4 +59,5 @@ Running commands with npm `npm run [command]`
 | `dev`   | Starts a development instance of the app |
 
 **Declaration:**
-This Web Application has been made with **complete help from the internet** just for educational purpose for my AWS Cloud Project as an intern at Ericsson. You can call it a cloned project, with some changes from my side for educational purpose!
+
+`This Web Application has been made with **complete help from the internet** just for educational purpose for my AWS Cloud Project as an intern at Ericsson. You can call it a cloned project, with some changes from my side for educational purpose!`
