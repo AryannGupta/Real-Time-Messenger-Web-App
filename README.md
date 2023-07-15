@@ -1,6 +1,6 @@
 # Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 
-**Google and Github Auth are broken as of now, will be fixed soon**
+**Google and Github Auth are working perfectly fine now!**
 
 ### Prerequisites
 
